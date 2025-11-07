@@ -27,8 +27,6 @@ This project is a desktop application that uses a custom-built Convolutional Neu
 -   **Ranveer Singh Thakur** (Author) - `(ranveersinghthakur33@gmail.com)`
 -   **Aryaman Giri** (Co-Author) 
 
-*(Remember to replace the placeholder links with your actual GitHub profile URLs!)*
-
 ---
 
 ## 🚀 Getting Started
